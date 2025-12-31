@@ -14,3 +14,7 @@
 ## December 2025 - January 2026 Update 8
 - Enhancement made on 2025-12-24
 - New year improvements
+
+## December 2025 - January 2026 Update 12
+- Enhancement made on 2025-12-31
+- New year improvements
